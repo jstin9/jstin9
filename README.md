@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Danil! 👋
 
-<!--
-**jstin9/jstin9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏆 Credentials & Practical Badges
+<a href="https://sadservers.com" target="_blank">
+  <img src="https://img.shields.io/badge/SadServers-Intermediate-2962FF?style=for-the-badge&labelColor=FFC400&logo=linux&logoColor=1A237E" alt="SadServers Intermediate">
+</a>
 
-Here are some ideas to get you started:
+<a href="https://www.credly.com/earner/earned/share/3fad9fc9-8376-4f6a-8658-6b6a2a3d12f8" target="_blank">
+  <img src="https://img.shields.io/badge/Cisco_Academy-Verified_Badges-005073?style=for-the-badge&labelColor=00BCEB&logo=cisco&logoColor=white" alt="Cisco Academy Credly">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://cert.efset.org/en/BiBhqJ" target="_blank">
+  <img src="https://img.shields.io/badge/EF_SET-English_Certificate-311B92?style=for-the-badge&labelColor=FF5722&logo=googletranslate&logoColor=white" alt="EF SET English Certificate">
+</a>
